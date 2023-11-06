@@ -20,8 +20,8 @@ is in development...
 
 ## Run local inference server
 
-```python
-tensorflow_model_server --rest_api_port=8501 --model_name=saved_model --model_base_path="/mnt/d/deploy/saved_model/"
+```
+$ tensorflow_model_server --rest_api_port=8501 --model_name=saved_model --model_base_path="/mnt/d/deploy/saved_model/"
 ```
 
 is in development...
