@@ -2,28 +2,28 @@
 
 <h2>About</h2>
 
-<h3>How to install Ubuntu on Windows 10</h3>
+<h2>How to install Ubuntu on Windows 10</h2>
 <p>
   
 </p>
 
 
 
-<h3>How to install Tensorflow Serving using Ubuntu</h3>
+<h2>How to install Tensorflow Serving using Ubuntu</h2>
 <p>
   
 </p>
 
 
 
-<h3>Run local inference server</h3>
+<h2>Run local inference server</h2>
 <p>
   
 </p>
 
 
 
-<h3>Get predictions</h3>
+<h2>Get predictions</h2>
 <p>
   
 </p>
