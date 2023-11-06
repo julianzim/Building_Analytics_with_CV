@@ -35,12 +35,10 @@
 
 
 <h2>Get predictions</h2>
-<p>
-  ```python
-  $ cd /mnt/d/deploy/
-  $ python3 client.py images/cmp_x0227.jpg output
-  ```
-</p>
+```python
+$ cd /mnt/d/deploy/
+$ python3 client.py images/cmp_x0227.jpg output
+```
 <p>
   is in development...
 </p>
