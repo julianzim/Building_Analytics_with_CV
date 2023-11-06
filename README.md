@@ -4,14 +4,14 @@
 
 <h2>How to install Ubuntu on Windows 10</h2>
 <p>
-  
+  <a href="https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview"></a>
 </p>
 
 
 
-<h2>How to install Tensorflow Serving using Ubuntu</h2>
+<h2>How to install Tensorflow Serving using APT</h2>
 <p>
-  
+  <a href="https://www.tensorflow.org/tfx/serving/setup#:~:text=GPU%20support.-,Installing%20using%20APT,model%2Dserver%2Duniversal%20if%20your%20processor%20does%20not%20support%20AVX%20instructions.,-Building%20from%20source"></a>
 </p>
 
 
