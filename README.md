@@ -35,10 +35,12 @@
 
 
 <h2>Get predictions</h2>
-```javascript
-import hljs from 'highlight.js/lib/highlight';
-hljs.registerLanguage('xml', require('highlight.js/lib/languages/xml'));
-```
+<div>
+  ```javascript
+  import hljs from 'highlight.js/lib/highlight';
+  hljs.registerLanguage('xml', require('highlight.js/lib/languages/xml'));
+  ```
+</div>
 <p>
   $ cd /mnt/d/deploy/
 </p>
