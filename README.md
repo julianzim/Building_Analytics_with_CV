@@ -1,4 +1,4 @@
-# <center>Building Analytics with Computer Vision</center>
+# Building Analytics with Computer Vision
 
 ## About
 
