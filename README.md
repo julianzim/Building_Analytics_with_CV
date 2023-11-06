@@ -25,7 +25,10 @@
 
 <h2>Get predictions</h2>
 <p>
-  
+  cd /mnt/d/deploy/
+</p>
+<p>
+  python3 client.py images/cmp_x0227.jpg output
 </p>
 
 
