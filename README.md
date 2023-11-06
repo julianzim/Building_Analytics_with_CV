@@ -1,7 +1,9 @@
 <h1 align="center">Building Analytics with Computer Vision</h1>
 
 <h2>About</h2>
-<p>is in development...</p>
+<p>
+  is in development...
+</p>
 
 <h2>How to install Ubuntu on Windows 10</h2>
 <p>
