@@ -7,13 +7,8 @@ from matplotlib import pyplot as plt
 from PIL import Image
 
 
-def resizeImage(image, new_size):
-    image = Image.fromarray(image)
+def prepareInput(image, new_size):
     image = image.resize(new_size)
-    return image
-
-
-def prepareInput(image):
     image = np.array(image)
     image = image.astype(np.float32) / 255
     image = image[None, ...]
@@ -37,9 +32,9 @@ OUT_FPATH = None
 if sys.argv[2]:
     OUT_FPATH = sys.argv[2]
 
-img = np.array(Image.open(IMG_FPATH))
+img = Image.open(IMG_FPATH)
 
-orig = resizeImage(img, (256, 256))
+orig = np.array(img.resize((256,256)))
 inp = prepareInput(orig)
 
 requests_data = json.dumps({
