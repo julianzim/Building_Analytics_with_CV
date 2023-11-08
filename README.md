@@ -21,7 +21,7 @@ is in development...
 ## Run local inference server
 
 ```
-$ tensorflow_model_server --rest_api_port=8501 --model_name=saved_model --model_base_path="/mnt/d/deploy/saved_model/"
+tensorflow_model_server --rest_api_port=8501 --model_name=saved_model --model_base_path="/mnt/d/deploy/saved_model/"
 ```
 
 is in development...
@@ -30,9 +30,11 @@ is in development...
 
 ## Get predictions
 
+```terminal
+  cd /mnt/d/deploy/
 ```
-  $ cd /mnt/d/deploy/
-  $ python3 client.py images/cmp_x0227.jpg output
+```terminal
+  python3 client.py images/cmp_x0227.jpg output
 ```
 
 is in development...
